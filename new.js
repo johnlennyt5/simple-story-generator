@@ -52,3 +52,5 @@ story.textContent = newStory;
 // Make the story element visible
 story.style.visibility = 'visible';
 }
+
+// new story coming soon 
